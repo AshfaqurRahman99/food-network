@@ -130,3 +130,20 @@ footer{
     text-align: center;
     padding-top: 30px;
 }
+.comment-area{
+   background-color:deeppink;
+   height: 300px;
+}
+.comment-box{
+    width: 40%;
+    margin-left:40%;
+    /* border: 1px solid black; */
+    padding-top: 30px;
+}
+.comment-box input{
+    width: 60%;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: lightcyan;
+    box-shadow: none;
+}
